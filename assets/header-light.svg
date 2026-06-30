@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" fill="none" role="img" aria-label="Jose Camilo Joga Guerrero — DevOps and Cloud Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0284c7"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <clipPath id="win">
+      <rect x="1" y="1" width="898" height="238" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="898" height="238" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <g clip-path="url(#win)">
+    <rect x="0" y="0" width="900" height="46" fill="#f1f5f9"/>
+  </g>
+  <line x1="1" y1="46" x2="899" y2="46" stroke="#e2e8f0" stroke-width="1"/>
+  <circle cx="30" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="23" r="6" fill="#27c93f"/>
+  <text x="450" y="28" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="13" fill="#64748b">camilo@cjoga: ~</text>
+
+  <!-- body -->
+  <text x="36" y="98" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="16" fill="#0284c7">❯ <tspan fill="#64748b">whoami</tspan></text>
+  <text x="36" y="146" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="33" font-weight="700" fill="#0f172a">Jose Camilo Joga Guerrero</text>
+  <text x="38" y="180" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="17" font-weight="600" fill="url(#accent)">DevOps &amp; Cloud Engineer</text>
+  <text x="38" y="207" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="13.5" fill="#64748b">Kubernetes · IaC · GitOps · self-hosting  —  Santo Domingo, DR</text>
+  <rect x="38" y="218" width="150" height="2.5" fill="url(#accent)" opacity="0.85"/>
+  <rect x="196" y="214" width="11" height="9" fill="#0284c7"/>
+</svg>
