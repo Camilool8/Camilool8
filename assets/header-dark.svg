@@ -26,7 +26,7 @@
   <text x="36" y="98" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="16" fill="#64ffda">❯ <tspan fill="#8892b0">whoami</tspan></text>
   <text x="36" y="146" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="33" font-weight="700" fill="#e2e8f0">Jose Camilo Joga Guerrero</text>
   <text x="38" y="180" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="17" font-weight="600" fill="url(#accent)">DevOps &amp; Cloud Engineer</text>
-  <text x="38" y="207" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="13.5" fill="#8892b0">Kubernetes · IaC · GitOps · self-hosting  —  Santo Domingo, DR</text>
+  <text x="38" y="207" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,Menlo,monospace" font-size="13.5" fill="#8892b0">Kubernetes · IaC · GitOps · self-hosting</text>
   <rect x="38" y="218" width="150" height="2.5" fill="url(#accent)" opacity="0.85"/>
   <rect x="196" y="214" width="11" height="9" fill="#64ffda"/>
 </svg>
