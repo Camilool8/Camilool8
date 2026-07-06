@@ -46,11 +46,11 @@ into platforms teams can run themselves.
 Latest from [blog.cjoga.cloud](https://blog.cjoga.cloud) — opinions I'd defend in a code review, and the cert guides I actually walked.
 
 <!-- WRITING:START -->
+- **[RHCE (EX294) guide](https://blog.cjoga.cloud/learn/rhce)** &nbsp;·&nbsp; _guide_ &nbsp;·&nbsp; 2026-07-05
 - **[AI in DevOps — be a power user, not a casual one](https://blog.cjoga.cloud/me/opinions/ai-in-devops-power-user)** &nbsp;·&nbsp; _opinion_ &nbsp;·&nbsp; 2026-05-13
 - **[Certifications expire, and that's the point](https://blog.cjoga.cloud/me/opinions/certifications-expire)** &nbsp;·&nbsp; _opinion_ &nbsp;·&nbsp; 2026-05-13
 - **[Keep it stupidly simple](https://blog.cjoga.cloud/me/opinions/keep-it-stupidly-simple)** &nbsp;·&nbsp; _opinion_ &nbsp;·&nbsp; 2026-05-13
 - **[OpenBao over Vault — same docs, more freedom](https://blog.cjoga.cloud/me/opinions/openbao-over-vault)** &nbsp;·&nbsp; _opinion_ &nbsp;·&nbsp; 2026-05-13
-- **[RHCSA (EX200) guide](https://blog.cjoga.cloud/learn/rhcsa)** &nbsp;·&nbsp; _guide_ &nbsp;·&nbsp; 2026-05-12
 <!-- WRITING:END -->
 
 ## `❯ connect`
