@@ -17,7 +17,7 @@ into platforms teams can run themselves.
 
 ## `❯ what I'm building`
 
-- **A six-node K3s homelab** that runs [cjoga.cloud](https://cjoga.cloud) and [blog.cjoga.cloud](https://blog.cjoga.cloud) — Tailscale mesh, Envoy Gateway, Cloudflare Tunnel, self-healing on an Ansible playbook. → [how it's wired](https://blog.cjoga.cloud/me/opinions/self-hosting-privilege)
+- **A six-node K3s homelab** that runs [cjoga.cloud](https://cjoga.cloud) and [blog.cjoga.cloud](https://blog.cjoga.cloud) — Tailscale mesh, Envoy Gateway, Cloudflare Tunnel, self-healing on an Ansible playbook. → [how it's wired](https://blog.cjoga.cloud/engineering/lab/overview)
 - **[KODEPULL](https://kodepull.com)** — my software company: enterprise-quality engineering on small-business budgets.
 - **The Kubestronaut path** — KCNA done, CKAD next.
 
