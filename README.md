@@ -19,7 +19,8 @@ into platforms teams can run themselves.
 
 - **A six-node K3s homelab** that runs [cjoga.cloud](https://cjoga.cloud) and [blog.cjoga.cloud](https://blog.cjoga.cloud) — Tailscale mesh, Envoy Gateway, Cloudflare Tunnel, self-healing on an Ansible playbook. → [how it's wired](https://blog.cjoga.cloud/engineering/lab/overview)
 - **[KODEPULL](https://kodepull.com)** — my software company: enterprise-quality engineering on small-business budgets.
-- **The Kubestronaut path** — KCNA done, CKAD next.
+- **The Kubestronaut path** — KCNA and CKAD done, CKA next. 2 of 5.
+- **[kubestronaut-sim](https://github.com/Camilool8/kubestronaut-sim)** — an open-source exam simulator for the whole path: one command, a real cluster, graded on behavior. → [the site](https://camilool8.github.io/kubestronaut-sim/)
 
 ## `❯ stack`
 
@@ -39,7 +40,7 @@ into platforms teams can run themselves.
 |  |  |
 | --- | --- |
 | **[cjoga-portfolio](https://github.com/Camilool8/cjoga-portfolio)**<br>The React + Vite site behind cjoga.cloud, with a live Kubernetes terminal. | **[RHCSA-LAB](https://github.com/Camilool8/RHCSA-LAB)**<br>A Vagrant lab that maps every EX200 objective to a break-it / fix-it task. |
-| **[RHCE-LAB](https://github.com/Camilool8/RHCE-LAB)**<br>The Ansible-automation companion lab for the RHCE (EX294). | **[JOBSEARCHBOT](https://github.com/Camilool8/JOBSEARCHBOT)**<br>A Discord bot that surfaces remote roles from LinkedIn, daily. |
+| **[kubestronaut-sim](https://github.com/Camilool8/kubestronaut-sim)**<br>An open-source Kubestronaut exam simulator — real clusters, fresh draws, graded on behavior. | **[RHCE-LAB](https://github.com/Camilool8/RHCE-LAB)**<br>The Ansible-automation companion lab for the RHCE (EX294). |
 
 ## `📡 from the handbook`
 
